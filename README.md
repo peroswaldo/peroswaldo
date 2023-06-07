@@ -25,7 +25,7 @@
 
 ### Other Knowledge:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-c#-0D1117?style=for-the-badge&logo=c#&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=C#&labelColor=0D1117)&nbsp;
 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
