@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I+am+Pedro+Henrique;I+am+from+Brazil;Be+welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I+am+Pedro+Gama;I+am+from+Brazil;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="60%" height="250px" src="https://github-readme-stats.vercel.app/api?username=peroswaldo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Henrique github stats" />
   
   
-  <img width="50%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="50%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peroswaldo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ### Main skills:
